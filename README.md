@@ -1,15 +1,15 @@
-### 我的博客
+### 感谢PeiwenLu写的的博客主题
 
-地址：[https://williamlaw99.github.io/]
 
-### 安装说明
 
-1. fork库到自己的github
-2. 修改名字为：`username.github.io`
-3. clone库到本地，参考`_posts`中的目录结构自己创建适合自己的文章目录结构
-4. 修改CNAME，或者删掉这个文件，使用默认域名
-5. 修改`_config.yml`配置项
-6. It's done!
+### 使用要点
+
+1. 仓库命名：`username.github.io`
+2. 编辑：在`_posts`文章目录结构内
+3. 域名：修改`CNAME`或者删掉它
+4. 设置：修改`_config.yml`相关项
+
+   ​
 
 ### 分支说明
 
