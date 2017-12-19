@@ -1,0 +1,50 @@
+# Site settings
+title: 罗树威的博客
+email: williamlaw99@foxmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  Keep going
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: http://williamlaw99.github.io # the base hostname & protocol for your site
+rss_url: /pages/feed.xml
+author: Shuwei Luo
+
+# Sidebar filter
+# Choose 'tag' or 'category' as filter in sidebar.
+filter: 'category'
+recent_num: 20
+
+# Social account
+twitter: null
+weibo: null
+github: null
+instagram: null
+linkedin: null
+
+# avatar and Favicon
+avatar: http://7u2ho6.com1.z0.glb.clouddn.com/site-avatar.png
+favicon: http://7u2ho6.com1.z0.glb.clouddn.com/site-favicon.ico
+
+# disqus config
+disqus:
+  shortname: shuwei-luo
+
+# google analytics config
+ga:
+  id: 
+  url: 
+
+# Build settings
+permalink: /:year/:month/:day/:title.html
+markdown: kramdown
+highlighter: rouge
+mathjax: disabled
+sass:
+  style: compressed
+
+# Jekyll Plugin
+# https://help.github.com/articles/adding-jekyll-plugins-to-a-github-pages-site/
+gems:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jekyll-feed
+
