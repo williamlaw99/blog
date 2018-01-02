@@ -4,7 +4,7 @@ email: williamlaw99@foxmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Keep going
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: http://williamlaw99.github.io # the base hostname & protocol for your site
+url: "" # the base hostname & protocol for your site
 rss_url: /pages/feed.xml
 author: Shuwei Luo
 
@@ -23,7 +23,7 @@ linkedin: null
 # avatar and Favicon
 avatar: http://t1.aixinxi.net/o_1c2gfolfvkd4195p1c8c8ahj31a.jpg-w.jpg
 # http://7u2ho6.com1.z0.glb.clouddn.com/site-avatar.png
-favicon:http://t1.aixinxi.net/o_1c2gfqg28nfhp3k120f1uib8iva.jpg-w.jpg
+favicon: http://t1.aixinxi.net/o_1c2gfqg28nfhp3k120f1uib8iva.jpg-w.jpg
 # http://7u2ho6.com1.z0.glb.clouddn.com/site-favicon.ico
 
 # disqus config
