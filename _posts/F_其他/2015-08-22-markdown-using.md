@@ -1,12 +1,10 @@
 ---
 layout: post
 title: Markdown的使用
-category: 工具
+category: F_其他
 tags: Essay
 keywords: 
 ---
-
-### 认识一下Markdown
 
 ### Markdown是什么
 
@@ -14,8 +12,6 @@ keywords:
 - Markdown是轻量级的标记语言
 - Markdown是以格式简洁规范为特色的轻量级的标记语言
 - Markdown是以格式简洁规范为特色的广泛被用于写博客写文章的标记语言
-
-------
 
 ### Markdown语法
 
@@ -30,8 +26,6 @@ keywords:
 | 代码框或引用 | 代码框“\`xxx\`S” 这个"\`"是数字1左边的键；    “>Sxxx”引用 |
 |  插入表格  | 这个语法相对复杂一点，此处略，但是借助编辑工具的图形化操作或者快捷键就一点都不难 |
 | 插入分割线  | “***E”                                   |
-
-------
 
 ### 支持Markdown的编辑工具
 
@@ -57,8 +51,6 @@ keywords:
     - Day One
     - iA writer
     - ...
-
-------
 
 ### 我用的是Typora
 
@@ -95,8 +87,6 @@ keywords:
   - ctrl+O 打开md文件
   - ctrl+shift+O  打开或关闭左侧Outline区域
   - ctrl+shift+X  截屏
-
-------
 
 #### 补充：
 
