@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 开发笔记 & 生活随笔
-tag: 博客主页
+tags: 博客主页
 keywords: 
 ---
 
