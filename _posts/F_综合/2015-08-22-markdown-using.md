@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Markdown的使用
-category: 其他
+category: 综合
 tags: Essay
 keywords: 
 ---
