@@ -7,12 +7,24 @@ layout: post
 ```
 public class Me {
 
-	private static final String sex = "male";
-	private static int age = 18;
-	private String job = "coder";
+	private Me() {}
+	
+	private static Me instance;
+	
+	private static class MeHoler {
+		private static Me me = new Me();
+    }
+	
+	public static Me getInstance() {
+		return MeHoler.me;
+	}
+	
+	public void doing() {
+		System.out.println("Hello coder, enjoy your life!");
+	}
 	
 	public static void main(String[] args) {
-		System.out.println("Hello World, enjoy life!");
+		Me.getInstance().doing();
 	}
 
 }
